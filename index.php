@@ -26,9 +26,7 @@
         Graduando em Engenharia da Computação pela UNINGÁ";
         $Linguística = "Linguística:Português - Nativo.";
         $ExperiênciaProfissional = "Experiência Profissional:";
-        $HospitalMemorialUningá = "Hospital Memorial Uningá
-        
-        ";
+        $HospitalMemorialUningá = "Hospital Memorial Uningá";
         $Função = "Função: Técnico de Informática, Assistente de Engenharia Clínica";
         $Período = " Período: 30/09/2022 à 23/02/2024";
 

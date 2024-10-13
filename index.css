@@ -1,0 +1,141 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(199, 175, 147);
+    border-radius: 1px;
+    
+}
+.img{
+text-align: right;
+margin: auto;
+display: block;
+align-items: center;
+width: 15%;
+display: flex;
+justify-content: right;
+height: 200px;
+border-radius: 100px;
+position: static;
+
+}
+.h1{
+    margin: 12px;
+    padding: 1px;
+    justify-content: baseline;
+    color: rgb(32, 32, 32);
+    display: block;
+    display: flex;
+}
+.titulo{
+    margin: 12px;
+    padding: 21px;
+    text-align: center;
+    display: blocks;
+    color: rgb(51, 48, 46);
+}
+
+.subtitulo{
+    margin: 12px;
+    padding: 1px;
+    text-align: center;
+    color: rgb(51, 48, 46);
+    display: blocks;
+}
+
+.topicos{
+    margin: 12px;
+    padding: 11px;
+    text-align: left;
+    color: rgb(51, 48, 46);
+    display: blocks;
+}
+
+.apresentação{
+    margin: 12px;
+    padding: 11px;
+    text-align:center;
+    color: rgb(51, 48, 46);
+    display: block;
+    flex-direction: column;
+}
+.list{
+    margin: 23px;
+    padding: 13px;
+    text-align:left;
+    color: rgb(51, 48, 46);
+
+}
+
+.cetificacao{
+
+    margin: 23px;
+    padding: 1px;
+    text-align:center;
+    color: rgb(51, 48, 46);
+}
+
+.exp{
+    margin: 12px;
+    padding: 1px;
+    text-align:center;
+    color: rgb(51, 48, 46);
+    display: flexbox;
+}
+
+.locais{
+    
+    margin: 12px;
+    padding: 1px;
+    text-align:left;
+    color: rgb(51, 48, 46);
+}
+.h3{
+    margin: 12px;
+    padding: 1px;
+    text-decoration: dotted;
+}
+
+.hl{
+    margin: 2px;
+    padding: 1px;
+    text-align:left;
+    color: rgb(51, 48, 46);
+    display: block;
+    flex-direction: column;
+
+}
+.sublocais{
+    margin: 12px;
+    padding: 1px;
+    text-align:left;
+    color: rgb(51, 48, 46);
+    display: block;
+    flex-direction: column;
+}
+
+.cursos{
+    margin: 12px;
+    padding: 1px;
+    text-align:center;
+    color: rgb(51, 48, 46);
+    display: block;
+    flex-direction: column;
+}
+
+.FCS{
+    display: block;
+    margin: 12px;
+    padding: 1px;
+    text-align:left;
+    color: rgb(51, 48, 46);
+    flex-direction: column;
+}
+
+.footer{
+    margin: 12px;
+    padding: 1px;
+    text-align:center;
+    color: rgb(51, 48, 46);
+    display: flow-root;
+    flex-direction: row;
+}
